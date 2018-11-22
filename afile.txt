@@ -2,3 +2,4 @@ add new
 add 1
 add 1.1
 after add branch myb1 we add something new
+after merge, we add myb1 a file
